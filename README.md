@@ -6,4 +6,4 @@ The b\_and\_b\_constant.cr program uses a constant version of the word array, wh
 
 Someday I intend to write an interactive version. Someday...
 
-*Beavis and Butt-Head* are created and owned by Mike Judge and Viacom.
+*Beavis and Butt-Head* are copyright Mike Judge and Viacom.
