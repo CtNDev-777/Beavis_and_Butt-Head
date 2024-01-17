@@ -1,5 +1,5 @@
-# A "Beavis and Butthead" simulator.
-# "Beavis and Butthead" belong to Mike Judge and Viacom
+# A "Beavis and Butt-Head" simulator.
+# "Beavis and Butt-Head belong to Mike Judge and Viacom
 # Source code by Iminglelamonglu-128-612
 
 msg_a = "Ding dong! This is hard work!"
